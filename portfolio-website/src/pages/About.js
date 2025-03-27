@@ -41,10 +41,10 @@ const About = () => {
                             <li><strong>Stock Trading Web App:</strong> Developed a platform for portfolio management
                                 and AI-based stock predictions.
                             </li>
-                            <li><strong>Internship at Kraya & Kuber:</strong> Worked on web design, branding, and UI/UX
+                            <li><strong>Team Member Kraya & Kuber:</strong> Worked on web design, branding, and UI/UX
                                 enhancements.
                             </li>
-                            <li><strong>Research Analyst at KIIT Model United Nations:</strong> Contributed to data
+                            <li><strong>Research Analyst at R&D Team at KIIT Model United Nations:</strong> Contributed to data
                                 analysis and international policy research.
                             </li>
                         </ul>
