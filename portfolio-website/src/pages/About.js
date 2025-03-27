@@ -41,10 +41,17 @@ const About = () => {
                             <li><strong>Stock Trading Web App:</strong> Developed a platform for portfolio management
                                 and AI-based stock predictions.
                             </li>
+<<<<<<< HEAD
                             <li><strong>Member at Kraya & Kuber:</strong> Worked on web design, branding, and UI/UX
                                 enhancements.
                             </li>
                             <li><strong>Research Analyst at R&D team at KIIT Model United Nations:</strong> Contributed to data
+=======
+                            <li><strong>Team Member Kraya & Kuber:</strong> Worked on web design, branding, and UI/UX
+                                enhancements.
+                            </li>
+                            <li><strong>Research Analyst at R&D Team at KIIT Model United Nations:</strong> Contributed to data
+>>>>>>> 68a346b7164d4e659d27da9e239bdfc098f9e699
                                 analysis and international policy research.
                             </li>
                         </ul>
@@ -53,7 +60,11 @@ const About = () => {
                         <ul>
                             <li><strong>Data Structures & Algorithms (Java)</strong> – Apna College</li>
                             <li><strong>MERN Stack Development</strong> – Apna College</li>
+<<<<<<< HEAD
                             <li><strong>Cybersecurity & Ethical Hacking</strong> – Great Learning</li>
+=======
+                            <li><strong>Cybersecurity & Ethical Hacking</strong> – Great Learning Academy</li>
+>>>>>>> 68a346b7164d4e659d27da9e239bdfc098f9e699
                             <li><strong>AWS Cloud Foundations</strong> – AWS Academy</li>
                         </ul>
 
