@@ -10,7 +10,7 @@ const About = () => {
                 <div className="about-content">
                     <div className="about-text">
                         <p>
-                            Hi, I'm <strong>Himani Rouniyar</strong>, a passionate <strong>Full-Stack
+                            Hi, I'm <strong>Shishil Sandilya</strong>, a passionate <strong>Full-Stack
                             Developer</strong>
                             with a strong foundation in <strong>MERN Stack, Cloud Computing, and Data Structures &
                             Algorithms</strong>.
