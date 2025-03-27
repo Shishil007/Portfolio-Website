@@ -51,9 +51,9 @@ const About = () => {
 
                         <h3>📜 Certifications</h3>
                         <ul>
-                            <li><strong>Data Structures & Algorithms (Java)</strong> – Coding Ninjas</li>
-                            <li><strong>MERN Stack Development</strong> – Udemy</li>
-                            <li><strong>Cybersecurity & Ethical Hacking</strong> – Coursera</li>
+                            <li><strong>Data Structures & Algorithms (Java)</strong> – Apna College</li>
+                            <li><strong>MERN Stack Development</strong> – Apna College</li>
+                            <li><strong>Cybersecurity & Ethical Hacking</strong> – Great Learning Academy</li>
                             <li><strong>AWS Cloud Foundations</strong> – AWS Academy</li>
                         </ul>
 
