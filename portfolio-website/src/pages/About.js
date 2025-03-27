@@ -10,7 +10,7 @@ const About = () => {
                 <div className="about-content">
                     <div className="about-text">
                         <p>
-                            Hi, I'm <strong>Shishil Sandilya</strong>, a passionate <strong>Full-Stack
+                            Hi, I'm <strong>Himani Rouniyar</strong>, a passionate <strong>Full-Stack
                             Developer</strong>
                             with a strong foundation in <strong>MERN Stack, Cloud Computing, and Data Structures &
                             Algorithms</strong>.
@@ -41,19 +41,19 @@ const About = () => {
                             <li><strong>Stock Trading Web App:</strong> Developed a platform for portfolio management
                                 and AI-based stock predictions.
                             </li>
-                            <li><strong>Internship at Kraya & Kuber:</strong> Worked on web design, branding, and UI/UX
+                            <li><strong>Member at Kraya & Kuber:</strong> Worked on web design, branding, and UI/UX
                                 enhancements.
                             </li>
-                            <li><strong>Research Analyst at KIIT Model United Nations:</strong> Contributed to data
+                            <li><strong>Research Analyst at R&D team at KIIT Model United Nations:</strong> Contributed to data
                                 analysis and international policy research.
                             </li>
                         </ul>
 
                         <h3>📜 Certifications</h3>
                         <ul>
-                            <li><strong>Data Structures & Algorithms (Java)</strong> – Coding Ninjas</li>
-                            <li><strong>MERN Stack Development</strong> – Udemy</li>
-                            <li><strong>Cybersecurity & Ethical Hacking</strong> – Coursera</li>
+                            <li><strong>Data Structures & Algorithms (Java)</strong> – Apna College</li>
+                            <li><strong>MERN Stack Development</strong> – Apna College</li>
+                            <li><strong>Cybersecurity & Ethical Hacking</strong> – Great Learning</li>
                             <li><strong>AWS Cloud Foundations</strong> – AWS Academy</li>
                         </ul>
 
